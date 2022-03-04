@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayushshaw90
-- 👀 I’m interested in java, python, c++ coding. 
-- 🌱 I’m currently learning c++.
-- 💞️ I’m looking to collaborate on java, python
+- 👀 I’m interested in java, python, c++, javascript coding. 
+- 🌱 I’m currently learning javascript.
+- 💞️ I’m looking to collaborate on java, python, web dev
 - 📫 How to reach me ...
 ayushshaw127@gmail.com
 <!---
