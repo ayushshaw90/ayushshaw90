@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ayushshaw90
-- B.teh student in NIT Rourkela studying Computer Science Engineering
+- B.tech student in NIT Rourkela studying Computer Science Engineering
 - 👀 I’m interested in java, python, c++, javascript coding. 
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on java, python, web dev
