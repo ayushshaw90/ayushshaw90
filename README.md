@@ -1,32 +1,25 @@
 <div style="font-size: 24px">Skills
 </div>
 <div style="display:flex">
-    <div class="skills" style="background-color: rgb(44,58,135)">
+    <div class="skills" style="background-color: rgb(44,58,135); padding: 4px; border-radius: 4px; margin-right: 4px;">
     MongoDB</div>
-    <div class="skills" style="background-color: rgb(124,10,135)">
+    <div class="skills" style="background-color: rgb(124,10,135); padding: 4px; border-radius: 4px; margin-right: 4px;">
     Java</div>
-    <div class="skills" style="background-color: rgb(44,128,65)">
+    <div class="skills" style="background-color: rgb(44,128,65); padding: 4px; border-radius: 4px; margin-right: 4px;">
     Python</div>
-    <div class="skills" style="background-color: rgb(154,67,40)">
+    <div class="skills" style="background-color: rgb(154,67,40); padding: 4px; border-radius: 4px; margin-right: 4px;">
     JavaScript</div>
-    <div class="skills" style="background-color: rgb(94,93,87)">
+    <div class="skills" style="background-color: rgb(94,93,87); padding: 4px; border-radius: 4px; margin-right: 4px;">
     HTML</div>
-    <div class="skills" style="background-color: rgb(159,41,82)">
+    <div class="skills" style="background-color: rgb(159,41,82); padding: 4px; border-radius: 4px; margin-right: 4px;">
     ReactJS</div>
-    <div class="skills" style="background-color: rgb(64,44,135)">
+    <div class="skills" style="background-color: rgb(64,44,135); padding: 4px; border-radius: 4px; margin-right: 4px;">
     Tailwind CSS</div>
-    <div class="skills" style="background-color: rgb(20,116,138)">
+    <div class="skills" style="background-color: rgb(20,116,138); padding: 4px; border-radius: 4px; margin-right: 4px;">
     ExpressJS</div>
 
 </div>
-<style>
-.skills{
-    padding: 4px;
-    border-radius: 4px;
-    margin-right: 4px;
-    background-color: green;
-}
-</style>
+
 
 - 👋 Hi, I’m @ayushshaw90
 - B.tech student in NIT Rourkela studying Computer Science Engineering
