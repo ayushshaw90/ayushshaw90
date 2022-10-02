@@ -20,3 +20,5 @@ You can click the Preview link to take a look at your changes.
 <img src="./images/html.png">
 <img src="./images/css.png">
 </div>
+
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushshaw90&hide=contribs,prs)
