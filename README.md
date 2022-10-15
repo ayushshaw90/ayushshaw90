@@ -19,3 +19,4 @@ ayushshaw127@gmail.com
 </div>
 
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushshaw90&show_icons=true&theme=gruvbox)
+![Ayush's contribution graph](https://activity-graph.herokuapp.com/graph?username=ayushshaw90&theme=github)
