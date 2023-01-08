@@ -1,4 +1,4 @@
-Hi, I am 
+Hi 👋 , I am 
 # Ayush Shaw
 
 A skilled full-stack web developer, programmer and problem solver.
@@ -27,6 +27,18 @@ A skilled full-stack web developer, programmer and problem solver.
 <img src="./images/html.png">
 <img src="./images/css.png">
 </div>
+
+## Social Media
+
+<!-- <a href="https://www.linkedin.com/in/ayushshaw/"> -->
+[![Linkedin](https://img.shields.io/badge/Linkedin-334151?style=social&logo=linkedin&logoColor=2563eb)](https://www.linkedin.com/in/ayushshaw/)
+
+[![Twitter](https://img.shields.io/badge/Twitter-334151?style=social&logo=twitter&logoColor=22d3ee)](https://twitter.com/ayushshaw127)
+
+## Areas of Interest
+
+![Blockchain](https://img.shields.io/badge/Blockchain-334155?style=for-the-badge&logo=ethereum&logoColor=61DAFB)
+![Web development](https://img.shields.io/badge/Web-Development-334155?style=for-the-badge&logo=google&logoColor=f33631)
 
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushshaw90&show_icons=true&theme=gruvbox)
 <!-- ![Ayush's contribution graph](https://activity-graph.herokuapp.com/graph?username=ayushshaw90&theme=github) -->
