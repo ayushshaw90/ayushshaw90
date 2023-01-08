@@ -1,11 +1,21 @@
+Hi, I am 
+# Ayush Shaw
 
-- 👋 Hi, I’m @ayushshaw90
-- B.tech student in NIT Rourkela studying Computer Science Engineering
-- 👀 I’m interested in java, python, c++, javascript coding. 
-- 🌱 I’m currently learning react, web3.js and solidity.
-- 💞️ I’m looking to collaborate on java, python, web dev, ethereum blockchain projects
-- 📫 How to reach me ...
-ayushshaw127@gmail.com
+A skilled full-stack web developer, programmer and problem solver.
+
+## Technogogies I use
+
+![React](https://img.shields.io/badge/React-334155?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-374151?style=for-the-badge&logo=node.js&logoColor=61DA0B)
+![Express.js](https://img.shields.io/badge/Express.JS-334155?style=for-the-badge&logo=express&logoColor=0ea5e9)
+![Tailwind css](https://img.shields.io/badge/Tailwind.CSS-334151?style=for-the-badge&logo=tailwindcss&logoColor=06b6d4)
+![CSS3](https://img.shields.io/badge/CSS-334151?style=for-the-badge&logo=css3&logoColor=green)
+![Socket.io](https://img.shields.io/badge/Socket.io-334151?style=for-the-badge&logo=socket.io&logoColor=209a23)
+![HTML](https://img.shields.io/badge/HTML-334151?style=for-the-badge&logo=html5&logoColor=facc15)
+![Javascript](https://img.shields.io/badge/JavaScript-334151?style=for-the-badge&logo=javascript&logoColor=fb923c)
+![Python](https://img.shields.io/badge/Python-334151?style=for-the-badge&logo=python&logoColor=f43f5e)
+![MongoDB](https://img.shields.io/badge/MongoDB-334151?style=for-the-badge&logo=mongodb&logoColor=14b8a6)
+![Solidity](https://img.shields.io/badge/Solidity-334151?style=for-the-badge&logo=solidity&logoColor=ef4444)
 
 <div>
 <img src="./images/c++.png">
