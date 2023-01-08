@@ -3,6 +3,8 @@ Hi 👋 , I am
 
 A skilled full-stack web developer, programmer and problem solver.
 
+<img src="./images/Ayush Shaw.png">
+
 ## Technogogies I use
 
 ![React](https://img.shields.io/badge/React-334155?style=for-the-badge&logo=react&logoColor=61DAFB)
