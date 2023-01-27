@@ -30,6 +30,11 @@ A skilled full-stack web developer, programmer and problem solver.
 <img src="./images/css.png">
 </div>
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushshaw90&layout=compact&theme=tokyonight)](https://github.com/ayushshaw90)
+
+
 ## Social Media
 
 <!-- <a href="https://www.linkedin.com/in/ayushshaw/"> -->
