@@ -1,7 +1,7 @@
 Hi 👋 , I am 
 # Ayush Shaw
 
-A skilled full-stack web developer, programmer and problem solver.
+A skilled full-stack web developer, programmer and problem solver. I also have interest in blockchain and DApps
 
 <img src="./images/Ayush Shaw.png">
 
@@ -16,6 +16,7 @@ A skilled full-stack web developer, programmer and problem solver.
 ![HTML](https://img.shields.io/badge/HTML-334151?style=for-the-badge&logo=html5&logoColor=facc15)
 ![Javascript](https://img.shields.io/badge/JavaScript-334151?style=for-the-badge&logo=javascript&logoColor=fb923c)
 ![Python](https://img.shields.io/badge/Python-334151?style=for-the-badge&logo=python&logoColor=f43f5e)
+![SmartPy](https://img.shields.io/badge/SmartPy-334151?style=for-the-badge&logo=python&logoColor=643ffe)
 ![MongoDB](https://img.shields.io/badge/MongoDB-334151?style=for-the-badge&logo=mongodb&logoColor=14b8a6)
 ![Solidity](https://img.shields.io/badge/Solidity-334151?style=for-the-badge&logo=solidity&logoColor=ef4444)
 
