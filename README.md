@@ -3,7 +3,6 @@ Hi 👋 , I am
 
 A skilled full-stack web developer, programmer and problem solver. I also have interest in blockchain and DApps
 
-<img src="./images/Ayush Shaw.png">
 
 ## Technogogies I use
 
